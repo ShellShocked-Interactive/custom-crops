@@ -1,0 +1,168 @@
+info:
+  namespace: customcrops
+items:
+  cucumber_stage_1:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_stage_0
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: cucumber_seeds
+  cucumber_stage_2:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_stage_1
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: cucumber_seeds
+  cucumber_stage_3:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_stage_2
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: cucumber_seeds
+  cucumber_stage_4:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_stage_3
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+  cucumber_stage_5:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_stage_4
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+  cucumber_seeds:
+    display_name: "cucumber Seeds"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cucumber_seeds
+  cucumber:
+    display_name: "cucumber"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cucumber
+  cucumber_silver_star:
+    display_name: "cucumber (Silver Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cucumber_silver_star
+  cucumber_golden_star:
+    display_name: "cucumber (Golden Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cucumber_golden_star

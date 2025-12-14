@@ -1,0 +1,53 @@
+info:
+  namespace: customcrops
+categories:
+  cropsexpansion_exoticfruits:
+    enabled: true
+    icon: customcrops:avocado_golden_star
+    name: 'CropsExpansion (Exotic Fruits)'
+    items:
+      - customcrops:avocado
+      - customcrops:avocado_silver_star
+      - customcrops:avocado_golden_star
+      - customcrops:avocado_seeds
+      - customcrops:avocado_stage_1
+      - customcrops:avocado_stage_2
+      - customcrops:avocado_stage_3
+      - customcrops:avocado_stage_4
+      - customcrops:avocado_stage_5
+      - customcrops:carambola
+      - customcrops:carambola_silver_star
+      - customcrops:carambola_golden_star
+      - customcrops:carambola_seeds
+      - customcrops:carambola_stage_1
+      - customcrops:carambola_stage_2
+      - customcrops:carambola_stage_3
+      - customcrops:carambola_stage_4
+      - customcrops:carambola_stage_5
+      - customcrops:durian
+      - customcrops:durian_silver_star
+      - customcrops:durian_golden_star
+      - customcrops:durian_seeds
+      - customcrops:durian_stage_1
+      - customcrops:durian_stage_2
+      - customcrops:durian_stage_3
+      - customcrops:durian_stage_4
+      - customcrops:durian_stage_5
+      - customcrops:guava
+      - customcrops:guava_silver_star
+      - customcrops:guava_golden_star
+      - customcrops:guava_seeds
+      - customcrops:guava_stage_1
+      - customcrops:guava_stage_2
+      - customcrops:guava_stage_3
+      - customcrops:guava_stage_4
+      - customcrops:guava_stage_5
+      - customcrops:lychee
+      - customcrops:lychee_silver_star
+      - customcrops:lychee_golden_star
+      - customcrops:lychee_seeds
+      - customcrops:lychee_stage_1
+      - customcrops:lychee_stage_2
+      - customcrops:lychee_stage_3
+      - customcrops:lychee_stage_4
+      - customcrops:lychee_stage_5

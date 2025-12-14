@@ -1,0 +1,116 @@
+info:
+  namespace: customcrops
+items:
+  amanita_gymnopus_stage_1:
+    display_name: "AmanitaGymnopus"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: mushrooms/amanita_gymnopus_stage_1
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: amanita_gymnopus_seeds
+  amanita_gymnopus_stage_2:
+    display_name: "AmanitaGymnopus"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: mushrooms/amanita_gymnopus_stage_2
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: amanita_gymnopus_seeds
+  amanita_gymnopus_stage_3:
+    display_name: "AmanitaGymnopus"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: mushrooms/amanita_gymnopus_stage_3
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: amanita_gymnopus_seeds
+  amanita_gymnopus_seeds:
+    #display_name: "Tomato Seeds"
+    display_name: "Amanita Gymnopus Seeds"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: mushrooms/amanita_gymnopus_seeds
+  amanita_gymnopus:
+    #display_name: "Tomato"
+    display_name: "Amanita Gymnopus"
+    resource:
+      generate: false
+      material: SPIDER_EYE
+      model_path: mushrooms/amanita_gymnopus
+  amanita_gymnopus_silver_star:
+    display_name: "Amanita Gymnopus(Silver Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: mushrooms/amanita_gymnopus_silver_star
+  amanita_gymnopus_golden_star:
+    display_name: "Amanita Gymnopus(Golden Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: mushrooms/amanita_gymnopus_golden_star     

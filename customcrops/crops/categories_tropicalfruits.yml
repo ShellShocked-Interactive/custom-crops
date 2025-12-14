@@ -1,0 +1,53 @@
+info:
+  namespace: customcrops
+categories:
+  cropsexpansion_tropicalfruits:
+    enabled: true
+    icon: customcrops:mango_golden_star
+    name: 'CropsExpansion (Tropical Fruits)'
+    items:
+      - customcrops:coconut
+      - customcrops:coconut_silver_star
+      - customcrops:coconut_golden_star
+      - customcrops:coconut_seeds
+      - customcrops:coconut_stage_1
+      - customcrops:coconut_stage_2
+      - customcrops:coconut_stage_3
+      - customcrops:coconut_stage_4
+      - customcrops:coconut_stage_5
+      - customcrops:cucumber
+      - customcrops:cucumber_silver_star
+      - customcrops:cucumber_golden_star
+      - customcrops:cucumber_seeds
+      - customcrops:cucumber_stage_1
+      - customcrops:cucumber_stage_2
+      - customcrops:cucumber_stage_3
+      - customcrops:cucumber_stage_4
+      - customcrops:cucumber_stage_5
+      - customcrops:kiwi
+      - customcrops:kiwi_silver_star
+      - customcrops:kiwi_golden_star
+      - customcrops:kiwi_seeds
+      - customcrops:kiwi_stage_1
+      - customcrops:kiwi_stage_2
+      - customcrops:kiwi_stage_3
+      - customcrops:kiwi_stage_4
+      - customcrops:kiwi_stage_5
+      - customcrops:mango
+      - customcrops:mango_silver_star
+      - customcrops:mango_golden_star
+      - customcrops:mango_seeds
+      - customcrops:mango_stage_1
+      - customcrops:mango_stage_2
+      - customcrops:mango_stage_3
+      - customcrops:mango_stage_4
+      - customcrops:mango_stage_5
+      - customcrops:papaya
+      - customcrops:papaya_silver_star
+      - customcrops:papaya_golden_star
+      - customcrops:papaya_seeds
+      - customcrops:papaya_stage_1
+      - customcrops:papaya_stage_2
+      - customcrops:papaya_stage_3
+      - customcrops:papaya_stage_4
+      - customcrops:papaya_stage_5

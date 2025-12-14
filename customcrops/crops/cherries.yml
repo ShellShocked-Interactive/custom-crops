@@ -1,0 +1,162 @@
+info:
+  namespace: customcrops
+items:
+  cherries_stage_1:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_stage_0
+      model_id: 1015
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_WIRE
+        cancel_drop: true
+        sound:
+          place:
+            name: block.azalea.place
+          break:
+            name: block.azalea.break
+  cherries_stage_2:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_stage_1
+      model_id: 1016
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_WIRE
+        cancel_drop: true
+        sound:
+          place:
+            name: block.azalea.place
+          break:
+            name: block.azalea.break
+  cherries_stage_3:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_stage_2
+      model_id: 1017
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_WIRE
+        cancel_drop: true
+        sound:
+          place:
+            name: block.azalea.place
+          break:
+            name: block.azalea.break
+  cherries_stage_4:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_stage_3
+      model_id: 1018
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_WIRE
+        cancel_drop: true
+        sound:
+          place:
+            name: block.azalea.place
+          break:
+            name: block.azalea.break
+  cherries_stage_5:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_stage_4
+      model_id: 1019
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_WIRE
+        cancel_drop: true
+        sound:
+          place:
+            name: block.azalea.place
+          break:
+            name: block.azalea.break
+  cherries_seeds:
+    display_name: "Cherries Seeds"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/cherries_seeds
+      model_id: 1020
+  cherries:
+    display_name: "Cherries"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cherries
+      model_id: 1021
+  cherries_silver_star:
+    display_name: "Cherries (Silver Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cherries_silver_star
+  cherries_golden_star:
+    display_name: "Cherries (Golden Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/cherries_golden_star
+      model_id: 1022
+loots:
+  blocks:
+    cherries_stage_1:
+      type: customcrops:cherries_stage_1
+      items:
+        result_1:
+          item: customcrops:cherries_seeds
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+          ignore_fortune: true
+    cherries_stage_2:
+      type: customcrops:cherries_stage_2
+      items:
+        result_1:
+          item: customcrops:cherries_seeds
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+          ignore_fortune: true
+    cherries_stage_3:
+      type: customcrops:cherries_stage_3
+      items:
+        result_1:
+          item: customcrops:cherries_seeds
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+          ignore_fortune: true
+    cherries_stage_4:
+      type: customcrops:cherries_stage_4
+      items:
+        result_1:
+          item: customcrops:cherries_seeds
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+          ignore_fortune: true
+    cherries_stage_5:
+      type: customcrops:cherries_stage_5
+      items:
+        result_1:
+          item: customcrops:cherries_seeds
+          min_amount: 1
+          max_amount: 1
+          chance: 100
+          ignore_fortune: true

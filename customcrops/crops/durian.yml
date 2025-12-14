@@ -1,0 +1,168 @@
+info:
+  namespace: customcrops
+items:
+  durian_stage_1:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_stage_0
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: durian_seeds
+  durian_stage_2:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_stage_1
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: durian_seeds
+  durian_stage_3:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_stage_2
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+          drop_item:
+            item: durian_seeds
+  durian_stage_4:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_stage_3
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+  durian_stage_5:
+    display_name: ""
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_stage_4
+    behaviours:
+      furniture:
+        entity: item_frame
+        fixed_rotation: false
+        solid: false
+        cancel_drop: true
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+    events:
+      placed_itemframe:
+        break:
+          play_sound:
+            name: block.azalea.break
+            volume: 1
+            pitch: 1
+  durian_seeds:
+    display_name: "Durian Seeds"
+    resource:
+      generate: false
+      material: PAPER
+      model_path: custom/items/durian_seeds
+  durian:
+    display_name: "Durian"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/durian
+  durian_silver_star:
+    display_name: "Durian (Silver Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/durian_silver_star
+  durian_golden_star:
+    display_name: "Durian (Golden Star)"
+    resource:
+      generate: false
+      material: APPLE
+      model_path: custom/items/durian_golden_star

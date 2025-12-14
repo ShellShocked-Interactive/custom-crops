@@ -1,0 +1,53 @@
+info:
+  namespace: customcrops
+categories:
+  cropsexpansion_redfruits:
+    enabled: true
+    icon: customcrops:goji_golden_star
+    name: 'CropsExpansion (Red Fruits)'
+    items:
+      - customcrops:blackberry
+      - customcrops:blackberry_silver_star
+      - customcrops:blackberry_golden_star
+      - customcrops:blackberry_seeds
+      - customcrops:blackberry_stage_1
+      - customcrops:blackberry_stage_2
+      - customcrops:blackberry_stage_3
+      - customcrops:blackberry_stage_4
+      - customcrops:blackberry_stage_5
+      - customcrops:blueberry
+      - customcrops:blueberry_silver_star
+      - customcrops:blueberry_golden_star
+      - customcrops:blueberry_seeds
+      - customcrops:blueberry_stage_1
+      - customcrops:blueberry_stage_2
+      - customcrops:blueberry_stage_3
+      - customcrops:blueberry_stage_4
+      - customcrops:blueberry_stage_5
+      - customcrops:cherries
+      - customcrops:cherries_silver_star
+      - customcrops:cherries_golden_star
+      - customcrops:cherries_seeds
+      - customcrops:cherries_stage_1
+      - customcrops:cherries_stage_2
+      - customcrops:cherries_stage_3
+      - customcrops:cherries_stage_4
+      - customcrops:cherries_stage_5
+      - customcrops:goji
+      - customcrops:goji_silver_star
+      - customcrops:goji_golden_star
+      - customcrops:goji_seeds
+      - customcrops:goji_stage_1
+      - customcrops:goji_stage_2
+      - customcrops:goji_stage_3
+      - customcrops:goji_stage_4
+      - customcrops:goji_stage_5
+      - customcrops:raspberry
+      - customcrops:raspberry_silver_star
+      - customcrops:raspberry_golden_star
+      - customcrops:raspberry_seeds
+      - customcrops:raspberry_stage_1
+      - customcrops:raspberry_stage_2
+      - customcrops:raspberry_stage_3
+      - customcrops:raspberry_stage_4
+      - customcrops:raspberry_stage_5
