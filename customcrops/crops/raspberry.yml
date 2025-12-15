@@ -157,21 +157,21 @@ items:
   raspberry:
     display_name: "raspberry"
     resource:
-      model_id: 5
+      model_id: 8
       generate: false
       material: APPLE
       model_path: custom/items/raspberry
   raspberry_silver_star:
     display_name: "raspberry (Silver Star)"
     resource:
-      model_id: 6
+      model_id: 9
       generate: false
       material: APPLE
       model_path: custom/items/raspberry_silver_star
   raspberry_golden_star:
     display_name: "raspberry (Golden Star)"
     resource:
-      model_id: 7
+      model_id: 10
       generate: false
       material: APPLE
       model_path: custom/items/raspberry_golden_star
