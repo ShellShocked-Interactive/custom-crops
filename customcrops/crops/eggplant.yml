@@ -4,6 +4,7 @@ items:
   eggplant_stage_1:
     display_name: ""
     resource:
+      model_id: 122
       generate: false
       material: PAPER
       model_path: item/crops/eggplant/stage_1
@@ -24,6 +25,7 @@ items:
   eggplant_stage_2:
     display_name: ""
     resource:
+      model_id: 123
       generate: false
       material: PAPER
       model_path: item/crops/eggplant/stage_2
@@ -44,6 +46,7 @@ items:
   eggplant_stage_3:
     display_name: ""
     resource:
+      model_id: 124
       generate: false
       material: PAPER
       model_path: item/crops/eggplant/stage_3
@@ -64,6 +67,7 @@ items:
   eggplant_stage_4:
     display_name: ""
     resource:
+      model_id: 125
       generate: false
       material: PAPER
       model_path: item/crops/eggplant/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Eggplant Seeds"
     #display_name: 茄子种子
     resource:
+      model_id: 126
       generate: false
       material: PAPER
       model_path: item/crops/eggplant/eggplant_seeds
@@ -92,6 +97,7 @@ items:
     display_name: "Eggplant"
     #display_name: 茄子
     resource:
+      model_id: 50
       generate: false
       material: APPLE
       model_path: item/crops/eggplant/eggplant
@@ -104,6 +110,7 @@ items:
     display_name: "Eggplant (Silver Star)"
     #display_name: 茄子(银星)
     resource:
+      model_id: 51
       generate: false
       material: APPLE
       model_path: item/crops/eggplant/eggplant_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Eggplant (Golden Star)"
     #display_name: 茄子(金星)
     resource:
+      model_id: 52
       generate: false
       material: APPLE
       model_path: item/crops/eggplant/eggplant_golden_star

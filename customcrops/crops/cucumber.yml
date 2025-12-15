@@ -4,6 +4,7 @@ items:
   cucumber_stage_1:
     display_name: ""
     resource:
+      model_id: 133
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_stage_0
@@ -33,6 +34,7 @@ items:
   cucumber_stage_2:
     display_name: ""
     resource:
+      model_id: 134
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_stage_1
@@ -62,6 +64,7 @@ items:
   cucumber_stage_3:
     display_name: ""
     resource:
+      model_id: 135
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_stage_2
@@ -91,6 +94,7 @@ items:
   cucumber_stage_4:
     display_name: ""
     resource:
+      model_id: 136
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_stage_3
@@ -118,6 +122,7 @@ items:
   cucumber_stage_5:
     display_name: ""
     resource:
+      model_id: 137
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_stage_4
@@ -145,24 +150,28 @@ items:
   cucumber_seeds:
     display_name: "cucumber Seeds"
     resource:
+      model_id: 138
       generate: false
       material: PAPER
       model_path: custom/items/cucumber_seeds
   cucumber:
     display_name: "cucumber"
     resource:
+      model_id: 56
       generate: false
       material: APPLE
       model_path: custom/items/cucumber
   cucumber_silver_star:
     display_name: "cucumber (Silver Star)"
     resource:
+      model_id: 57
       generate: false
       material: APPLE
       model_path: custom/items/cucumber_silver_star
   cucumber_golden_star:
     display_name: "cucumber (Golden Star)"
     resource:
+      model_id: 58
       generate: false
       material: APPLE
       model_path: custom/items/cucumber_golden_star

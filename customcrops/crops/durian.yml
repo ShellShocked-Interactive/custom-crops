@@ -4,6 +4,7 @@ items:
   durian_stage_1:
     display_name: ""
     resource:
+      model_id: 127
       generate: false
       material: PAPER
       model_path: custom/items/durian_stage_0
@@ -33,6 +34,7 @@ items:
   durian_stage_2:
     display_name: ""
     resource:
+      model_id: 128
       generate: false
       material: PAPER
       model_path: custom/items/durian_stage_1
@@ -62,6 +64,7 @@ items:
   durian_stage_3:
     display_name: ""
     resource:
+      model_id: 129
       generate: false
       material: PAPER
       model_path: custom/items/durian_stage_2
@@ -91,6 +94,7 @@ items:
   durian_stage_4:
     display_name: ""
     resource:
+      model_id: 130
       generate: false
       material: PAPER
       model_path: custom/items/durian_stage_3
@@ -118,6 +122,7 @@ items:
   durian_stage_5:
     display_name: ""
     resource:
+      model_id: 131
       generate: false
       material: PAPER
       model_path: custom/items/durian_stage_4
@@ -145,24 +150,28 @@ items:
   durian_seeds:
     display_name: "Durian Seeds"
     resource:
+      model_id: 132
       generate: false
       material: PAPER
       model_path: custom/items/durian_seeds
   durian:
     display_name: "Durian"
     resource:
+      model_id: 53
       generate: false
       material: APPLE
       model_path: custom/items/durian
   durian_silver_star:
     display_name: "Durian (Silver Star)"
     resource:
+      model_id: 54
       generate: false
       material: APPLE
       model_path: custom/items/durian_silver_star
   durian_golden_star:
     display_name: "Durian (Golden Star)"
     resource:
+      model_id: 55
       generate: false
       material: APPLE
       model_path: custom/items/durian_golden_star

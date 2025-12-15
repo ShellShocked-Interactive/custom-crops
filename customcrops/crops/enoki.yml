@@ -4,6 +4,7 @@ items:
   enoki_stage_1:
     display_name: "EnokiRE"
     resource:
+      model_id: 118
       generate: false
       material: PAPER
       model_path: mushrooms/enoki_stage_1
@@ -33,6 +34,7 @@ items:
   enoki_stage_2:
     display_name: "EnokiRE"
     resource:
+      model_id: 119
       generate: false
       material: PAPER
       model_path: mushrooms/enoki_stage_2
@@ -62,6 +64,7 @@ items:
   enoki_stage_3:
     display_name: "EnokiRE"
     resource:
+      model_id: 120
       generate: false
       material: PAPER
       model_path: mushrooms/enoki_stage_3
@@ -92,6 +95,7 @@ items:
     #display_name: "Tomato Seeds"
     display_name: "Enoki Seeds"
     resource:
+      model_id: 121
       generate: false
       material: PAPER
       model_path: mushrooms/enoki_seeds
@@ -99,6 +103,7 @@ items:
     #display_name: "Tomato"
     display_name: Enoki
     resource:
+      model_id: 47
       generate: false
       material: APPLE
       model_path: mushrooms/enoki
@@ -106,12 +111,14 @@ items:
   enoki_silver_star:
     display_name: Enoki(Silver Star)
     resource:
+      model_id: 48
       generate: false
       material: APPLE
       model_path: mushrooms/enoki_silver_star
   enoki_golden_star:
     display_name: Enoki(Golden Star)
     resource:
+      model_id: 49
       generate: false
       material: APPLE
       model_path: mushrooms/enoki_golden_star     

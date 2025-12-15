@@ -4,6 +4,7 @@ items:
   grape_stage_1:
     display_name: ""
     resource:
+      model_id: 100
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_1
@@ -24,6 +25,7 @@ items:
   grape_stage_2:
     display_name: ""
     resource:
+      model_id: 101
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_2
@@ -44,6 +46,7 @@ items:
   grape_stage_3:
     display_name: ""
     resource:
+      model_id: 102
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_3
@@ -64,6 +67,7 @@ items:
   grape_stage_4:
     display_name: ""
     resource:
+      model_id: 103
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_4
@@ -84,6 +88,7 @@ items:
   grape_stage_5:
     display_name: ""
     resource:
+      model_id: 104
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_5
@@ -104,6 +109,7 @@ items:
   grape_stage_6:
     display_name: ""
     resource:
+      model_id: 105
       generate: false
       material: PAPER
       model_path: item/crops/grape/stage_6
@@ -125,6 +131,7 @@ items:
     display_name: "Grape Seeds"
     #display_name: 葡萄种子
     resource:
+      model_id: 106
       generate: false
       material: PAPER
       model_path: item/crops/grape/grape_seeds
@@ -132,6 +139,7 @@ items:
     display_name: "Grape"
     #display_name: 葡萄
     resource:
+      model_id: 38
       generate: false
       material: APPLE
       model_path: item/crops/grape/grape
@@ -144,6 +152,7 @@ items:
     display_name: "Grape (Silver Star)"
     #display_name: 葡萄(银星)
     resource:
+      model_id: 39
       generate: false
       material: APPLE
       model_path: item/crops/grape/grape_silver_star
@@ -156,6 +165,7 @@ items:
     display_name: "Grape (Golden Star)"
     #display_name: 葡萄(金星)
     resource:
+      model_id: 40
       generate: false
       material: APPLE
       model_path: item/crops/grape/grape_golden_star

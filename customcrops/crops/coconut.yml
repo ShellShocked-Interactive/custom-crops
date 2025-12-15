@@ -4,6 +4,7 @@ items:
   coconut_stage_1:
     display_name: ""
     resource:
+      model_id: 144
       generate: false
       material: PAPER
       model_path: custom/items/coconut_stage_0
@@ -33,6 +34,7 @@ items:
   coconut_stage_2:
     display_name: ""
     resource:
+      model_id: 145
       generate: false
       material: PAPER
       model_path: custom/items/coconut_stage_1
@@ -62,6 +64,7 @@ items:
   coconut_stage_3:
     display_name: ""
     resource:
+      model_id: 146
       generate: false
       material: PAPER
       model_path: custom/items/coconut_stage_2
@@ -91,6 +94,7 @@ items:
   coconut_stage_4:
     display_name: ""
     resource:
+      model_id: 147
       generate: false
       material: PAPER
       model_path: custom/items/coconut_stage_3
@@ -120,6 +124,7 @@ items:
   coconut_stage_5:
     display_name: ""
     resource:
+      model_id: 148
       generate: false
       material: PAPER
       model_path: custom/items/coconut_stage_4
@@ -149,24 +154,28 @@ items:
   coconut_seeds:
     display_name: "coconut Seeds"
     resource:
+      model_id: 149
       generate: false
       material: PAPER
       model_path: custom/items/coconut_seeds
   coconut:
     display_name: "coconut"
     resource:
+      model_id: 62
       generate: false
       material: APPLE
       model_path: custom/items/coconut
   coconut_silver_star:
     display_name: "coconut (Silver Star)"
     resource:
+      model_id: 63
       generate: false
       material: APPLE
       model_path: custom/items/coconut_silver_star
   coconut_golden_star:
     display_name: "coconut (Golden Star)"
     resource:
+      model_id: 64
       generate: false
       material: APPLE
       model_path: custom/items/coconut_golden_star

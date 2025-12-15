@@ -4,6 +4,7 @@ items:
   corn_stage_1:
     display_name: ""
     resource:
+      model_id: 139
       generate: false
       material: PAPER
       model_path: item/crops/corn/stage_1
@@ -24,6 +25,7 @@ items:
   corn_stage_2:
     display_name: ""
     resource:
+      model_id: 140
       generate: false
       material: PAPER
       model_path: item/crops/corn/stage_2
@@ -44,6 +46,7 @@ items:
   corn_stage_3:
     display_name: ""
     resource:
+      model_id: 141
       generate: false
       material: PAPER
       model_path: item/crops/corn/stage_3
@@ -64,6 +67,7 @@ items:
   corn_stage_4:
     display_name: ""
     resource:
+      model_id: 142
       generate: false
       material: PAPER
       model_path: item/crops/corn/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Corn Seeds"
     #display_name: 玉米种子
     resource:
+      model_id: 143
       generate: false
       material: PAPER
       model_path: item/crops/corn/corn_seeds
@@ -92,6 +97,7 @@ items:
     display_name: "Corn"
     #display_name: 玉米
     resource:
+      model_id: 59
       generate: false
       material: APPLE
       model_path: item/crops/corn/corn
@@ -104,6 +110,7 @@ items:
     display_name: "Corn (Silver Star)"
     #display_name: 玉米(银星)
     resource:
+      model_id: 60
       generate: false
       material: APPLE
       model_path: item/crops/corn/corn_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Corn (Golden Star)"
     #display_name: 玉米(金星)
     resource:
+      model_id: 61
       generate: false
       material: APPLE
       model_path: item/crops/corn/corn_golden_star

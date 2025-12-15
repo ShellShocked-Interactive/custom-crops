@@ -4,6 +4,7 @@ items:
   garlic_stage_1:
     display_name: ""
     resource:
+      model_id: 113
       generate: false
       material: PAPER
       model_path: item/crops/garlic/stage_1
@@ -24,6 +25,7 @@ items:
   garlic_stage_2:
     display_name: ""
     resource:
+      model_id: 114
       generate: false
       material: PAPER
       model_path: item/crops/garlic/stage_2
@@ -44,6 +46,7 @@ items:
   garlic_stage_3:
     display_name: ""
     resource:
+      model_id: 115
       generate: false
       material: PAPER
       model_path: item/crops/garlic/stage_3
@@ -64,6 +67,7 @@ items:
   garlic_stage_4:
     display_name: ""
     resource:
+      model_id: 116
       generate: false
       material: PAPER
       model_path: item/crops/garlic/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Garlic Seeds"
     #display_name: 大蒜种子
     resource:
+      model_id: 117
       generate: false
       material: PAPER
       model_path: item/crops/garlic/garlic_seeds
@@ -92,6 +97,7 @@ items:
     display_name: "Garlic"
     #display_name: 大蒜
     resource:
+      model_id: 44
       generate: false
       material: APPLE
       model_path: item/crops/garlic/garlic
@@ -104,6 +110,7 @@ items:
     display_name: "Garlic (Silver Star)"
     #display_name: 大蒜(银星)
     resource:
+      model_id: 45
       generate: false
       material: APPLE
       model_path: item/crops/garlic/garlic_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Garlic (Golden Star)"
     #display_name: 大蒜(金星)
     resource:
+      model_id: 46
       generate: false
       material: APPLE
       model_path: item/crops/garlic/garlic_golden_star
