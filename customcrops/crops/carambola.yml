@@ -4,6 +4,7 @@ items:
   carambola_stage_1:
     display_name: ""
     resource:
+      model_id: 162
       generate: false
       material: PAPER
       model_path: custom/items/carambola_stage_0
@@ -33,6 +34,7 @@ items:
   carambola_stage_2:
     display_name: ""
     resource:
+      model_id: 163
       generate: false
       material: PAPER
       model_path: custom/items/carambola_stage_1
@@ -62,6 +64,7 @@ items:
   carambola_stage_3:
     display_name: ""
     resource:
+      model_id: 164
       generate: false
       material: PAPER
       model_path: custom/items/carambola_stage_2
@@ -91,6 +94,7 @@ items:
   carambola_stage_4:
     display_name: ""
     resource:
+      model_id: 165
       generate: false
       material: PAPER
       model_path: custom/items/carambola_stage_3
@@ -118,6 +122,7 @@ items:
   carambola_stage_5:
     display_name: ""
     resource:
+      model_id: 166
       generate: false
       material: PAPER
       model_path: custom/items/carambola_stage_4
@@ -145,24 +150,28 @@ items:
   carambola_seeds:
     display_name: "Carambola Seeds"
     resource:
+      model_id: 167
       generate: false
       material: PAPER
       model_path: custom/items/carambola_seeds
   carambola:
     display_name: "Carambola"
     resource:
+      model_id: 71
       generate: false
       material: APPLE
       model_path: custom/items/carambola
   carambola_silver_star:
     display_name: "Carambola (Silver Star)"
     resource:
+      model_id: 72
       generate: false
       material: APPLE
       model_path: custom/items/carambola_silver_star
   carambola_golden_star:
     display_name: "Carambola (Golden Star)"
     resource:
+      model_id: 73
       generate: false
       material: APPLE
       model_path: custom/items/carambola_golden_star

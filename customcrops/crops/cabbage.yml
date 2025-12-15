@@ -4,6 +4,7 @@ items:
   cabbage_stage_1:
     display_name: ""
     resource:
+      model_id: 168
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/stage_1
@@ -24,6 +25,7 @@ items:
   cabbage_stage_2:
     display_name: ""
     resource:
+      model_id: 169
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/stage_2
@@ -44,6 +46,7 @@ items:
   cabbage_stage_3:
     display_name: ""
     resource:
+      model_id: 170
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/stage_3
@@ -64,6 +67,7 @@ items:
   cabbage_stage_4:
     display_name: ""
     resource:
+      model_id: 171
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Cabbage Seeds"
     #display_name: 卷心菜种子
     resource:
+      model_id: 172
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/cabbage_seeds
@@ -97,6 +102,7 @@ items:
     display_name: "Cabbage"
     #display_name: 卷心菜
     resource:
+      model_id: 74
       generate: false
       material: APPLE
       model_path: item/crops/cabbage/cabbage
@@ -104,6 +110,7 @@ items:
     display_name: "Cabbage (Silver Star)"
     #display_name: 卷心菜(银星)
     resource:
+      model_id: 75
       generate: false
       material: APPLE
       model_path: item/crops/cabbage/cabbage_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Cabbage (Golden Star)"
     #display_name: 卷心菜(金星)
     resource:
+      model_id: 76
       generate: false
       material: APPLE
       model_path: item/crops/cabbage/cabbage_golden_star
@@ -128,6 +136,7 @@ items:
     display_name: "Overgrown Cabbage"
     #display_name: 巨型卷心菜
     resource:
+      model_id: 173
       generate: false
       material: PAPER
       model_path: item/crops/cabbage/gigantic_cabbage

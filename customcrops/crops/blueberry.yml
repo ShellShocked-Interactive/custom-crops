@@ -4,6 +4,8 @@ items:
   blueberry_stage_1:
     display_name: ""
     resource:
+      model_id: 
+        model_id: 174
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_stage_0
@@ -33,6 +35,7 @@ items:
   blueberry_stage_2:
     display_name: ""
     resource:
+      model_id: 175
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_stage_1
@@ -62,6 +65,7 @@ items:
   blueberry_stage_3:
     display_name: ""
     resource:
+      model_id: 176
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_stage_2
@@ -91,6 +95,7 @@ items:
   blueberry_stage_4:
     display_name: ""
     resource:
+      model_id: 177
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_stage_3
@@ -120,6 +125,7 @@ items:
   blueberry_stage_5:
     display_name: ""
     resource:
+      model_id: 178
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_stage_4
@@ -149,24 +155,28 @@ items:
   blueberry_seeds:
     display_name: "Blueberry Seeds"
     resource:
+      model_id: 179
       generate: false
       material: PAPER
       model_path: custom/items/blueberry_seeds
   blueberry:
     display_name: "Blueberry"
     resource:
+      model_id: 77
       generate: false
       material: APPLE
       model_path: custom/items/blueberry
   blueberry_silver_star:
     display_name: "Blueberry (Silver Star)"
     resource:
+      model_id: 78
       generate: false
       material: APPLE
       model_path: custom/items/blueberry_silver_star
   blueberry_golden_star:
     display_name: "Blueberry (Golden Star)"
     resource:
+      model_id: 79
       generate: false
       material: APPLE
       model_path: custom/items/blueberry_golden_star
