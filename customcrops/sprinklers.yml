@@ -3,13 +3,15 @@ info:
 items:
   water_effect:
     display_name: ""
-    resource:
+    resource: 216
+      model_id: 
       generate: false
       material: PAPER
       model_path: item/sprinklers/water_effect
   sprinkler_1:
     display_name: ""
     resource:
+      model_id: 217
       material: PAPER
       generate: false
       model_path: 'item/sprinklers/sprinkler_1'
@@ -35,12 +37,14 @@ items:
   sprinkler_1_item:
     display_name: display-name-sprinkler_1_item
     resource:
+      model_id: 217
       generate: false
       material: PAPER
       model_path: item/sprinklers/sprinkler_1_item
   sprinkler_2:
     display_name: ""
     resource:
+      model_id: 218
       material: PAPER
       generate: false
       model_path: 'item/sprinklers/sprinkler_2'
@@ -66,12 +70,14 @@ items:
   sprinkler_2_item:
     display_name: display-name-sprinkler_2_item
     resource:
+      model_id: 218
       generate: false
       material: PAPER
       model_path: item/sprinklers/sprinkler_2_item
   sprinkler_3:
     display_name: ""
     resource:
+      model_id: 219
       material: PAPER
       generate: false
       model_path: 'item/sprinklers/sprinkler_3'
@@ -97,6 +103,7 @@ items:
   sprinkler_3_item:
     display_name: display-name-sprinkler_3_item
     resource:
+      model_id: 219
       generate: false
       material: PAPER
       model_path: item/sprinklers/sprinkler_3_item

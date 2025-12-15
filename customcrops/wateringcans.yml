@@ -4,24 +4,28 @@ items:
   watering_can_1:
     display_name: display-name-watering_can_1
     resource:
+      model_id: 1
       generate: false
       material: GOLDEN_HORSE_ARMOR
       model_path: item/wateringcans/watering_can_1
   watering_can_2:
     display_name: display-name-watering_can_2
     resource:
+      model_id: 2
       generate: false
       material: GOLDEN_HORSE_ARMOR
       model_path: item/wateringcans/watering_can_2
   watering_can_3:
     display_name: display-name-watering_can_3
     resource:
+      model_id: 3
       generate: false
       material: GOLDEN_HORSE_ARMOR
       model_path: item/wateringcans/watering_can_3
   watering_can_4:
     display_name: display-name-watering_can_4
     resource:
+      model_id: 4
       generate: false
       material: GOLDEN_HORSE_ARMOR
       model_path: item/wateringcans/watering_can_4
