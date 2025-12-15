@@ -4,6 +4,7 @@ items:
   apple_stage_1:
     display_name: ""
     resource:
+      model_id: 192
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_1
@@ -24,6 +25,7 @@ items:
   apple_stage_2:
     display_name: ""
     resource:
+      model_id: 193
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_2
@@ -44,6 +46,7 @@ items:
   apple_stage_3:
     display_name: ""
     resource:
+      model_id: 194
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_3
@@ -64,6 +67,7 @@ items:
   apple_stage_4:
     display_name: ""
     resource:
+      model_id: 195
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_4
@@ -84,6 +88,7 @@ items:
   apple_stage_5:
     display_name: ""
     resource:
+      model_id: 196
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_5
@@ -104,6 +109,7 @@ items:
   apple_stage_6:
     display_name: ""
     resource:
+      model_id: 197
       generate: false
       material: PAPER
       model_path: item/crops/apple/stage_6

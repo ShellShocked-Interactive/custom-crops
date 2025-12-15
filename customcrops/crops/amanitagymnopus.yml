@@ -4,6 +4,7 @@ items:
   amanita_gymnopus_stage_1:
     display_name: "AmanitaGymnopus"
     resource:
+      model_id: 198
       generate: false
       material: PAPER
       model_path: mushrooms/amanita_gymnopus_stage_1
@@ -33,6 +34,7 @@ items:
   amanita_gymnopus_stage_2:
     display_name: "AmanitaGymnopus"
     resource:
+      model_id: 199
       generate: false
       material: PAPER
       model_path: mushrooms/amanita_gymnopus_stage_2
@@ -62,6 +64,7 @@ items:
   amanita_gymnopus_stage_3:
     display_name: "AmanitaGymnopus"
     resource:
+      model_id: 200
       generate: false
       material: PAPER
       model_path: mushrooms/amanita_gymnopus_stage_3
@@ -92,6 +95,7 @@ items:
     #display_name: "Tomato Seeds"
     display_name: "Amanita Gymnopus Seeds"
     resource:
+      model_id: 201
       generate: false
       material: PAPER
       model_path: mushrooms/amanita_gymnopus_seeds
@@ -99,18 +103,21 @@ items:
     #display_name: "Tomato"
     display_name: "Amanita Gymnopus"
     resource:
+      model_id: 86
       generate: false
       material: SPIDER_EYE
       model_path: mushrooms/amanita_gymnopus
   amanita_gymnopus_silver_star:
     display_name: "Amanita Gymnopus(Silver Star)"
     resource:
+      model_id: 87
       generate: false
       material: APPLE
       model_path: mushrooms/amanita_gymnopus_silver_star
   amanita_gymnopus_golden_star:
     display_name: "Amanita Gymnopus(Golden Star)"
     resource:
+      model_id: 88
       generate: false
       material: APPLE
       model_path: mushrooms/amanita_gymnopus_golden_star     

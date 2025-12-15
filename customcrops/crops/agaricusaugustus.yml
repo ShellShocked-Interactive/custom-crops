@@ -4,6 +4,7 @@ items:
   agaricus_augustus_stage_1:
     display_name: "Agaricus Augustus"
     resource:
+      model_id: 212
       generate: false
       material: PAPER
       model_path: mushrooms/agaricus_augustus_stage_1
@@ -24,6 +25,7 @@ items:
   agaricus_augustus_stage_2:
     display_name: "Agaricus Augustus"
     resource:
+      model_id: 213
       generate: false
       material: PAPER
       model_path: mushrooms/agaricus_augustus_stage_2
@@ -44,6 +46,7 @@ items:
   agaricus_augustus_stage_3:
     display_name: "Agaricus Augustus"
     resource:
+      model_id: 214
       generate: false
       material: PAPER
       model_path: mushrooms/agaricus_augustus_stage_3
@@ -65,6 +68,7 @@ items:
     #display_name: "Tomato Seeds"
     display_name: :'"Agaricus Augustus Seeds"
     resource:
+      model_id: 215
       generate: false
       material: PAPER
       model_path: mushrooms/agaricus_augustus_seeds
@@ -72,6 +76,7 @@ items:
     #display_name: "Tomato"
     display_name: "Agaricus Augustus"
     resource:
+      model_id: 95
       generate: false
       material: APPLE
       model_path: mushrooms/agaricus_augustus
@@ -79,12 +84,14 @@ items:
   agaricus_augustus_silver_star:
     display_name: "Agaricus Augustus(Silver Star)"
     resource:
+      model_id: 96
       generate: false
       material: APPLE
       model_path: mushrooms/agaricus_augustus_silver_star
   agaricus_augustus_golden_star:
     display_name: "Agaricus Augustus(Golden Star)"
     resource:
+      model_id: 97
       generate: false
       material: APPLE
       model_path: mushrooms/agaricus_augustus_golden_star     

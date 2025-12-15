@@ -4,6 +4,7 @@ items:
   avocado_stage_1:
     display_name: ""
     resource:
+      model_id: 186
       generate: false
       material: PAPER
       model_path: custom/items/avocado_stage_0
@@ -33,6 +34,7 @@ items:
   avocado_stage_2:
     display_name: ""
     resource:
+      model_id: 187
       generate: false
       material: PAPER
       model_path: custom/items/avocado_stage_1
@@ -62,6 +64,7 @@ items:
   avocado_stage_3:
     display_name: ""
     resource:
+      model_id: 188
       generate: false
       material: PAPER
       model_path: custom/items/avocado_stage_2
@@ -91,6 +94,7 @@ items:
   avocado_stage_4:
     display_name: ""
     resource:
+      model_id: 189
       generate: false
       material: PAPER
       model_path: custom/items/avocado_stage_3
@@ -120,6 +124,7 @@ items:
   avocado_stage_5:
     display_name: ""
     resource:
+      model_id: 190
       generate: false
       material: PAPER
       model_path: custom/items/avocado_stage_4
@@ -150,6 +155,7 @@ items:
     display_name: "Avocado Seeds"
     #display_name: 火龙果种子
     resource:
+      model_id: 191
       generate: false
       material: PAPER
       model_path: custom/items/avocado_seeds
@@ -157,6 +163,7 @@ items:
     display_name: "Avocado"
     #display_name: 火龙果
     resource:
+      model_id: 83
       generate: false
       material: APPLE
       model_path: custom/items/avocado
@@ -164,6 +171,7 @@ items:
     display_name: "Avocado (Silver Star)"
     #display_name: 火龙果(银星)
     resource:
+      model_id: 84
       generate: false
       material: APPLE
       model_path: custom/items/avocado_silver_star
@@ -171,6 +179,7 @@ items:
     display_name: "Avocado (Golden Star)"
     #display_name: 火龙果(金星)
     resource:
+      model_id: 85
       generate: false
       material: APPLE
       model_path: custom/items/avocado_golden_star
