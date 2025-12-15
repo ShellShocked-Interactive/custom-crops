@@ -4,6 +4,7 @@ items:
   hop_stage_1:
     display_name: ""
     resource:
+      model_id: 89
       generate: false
       material: PAPER
       model_path: item/crops/hop/stage_1
@@ -24,6 +25,7 @@ items:
   hop_stage_2:
     display_name: ""
     resource:
+      model_id: 90
       generate: false
       material: PAPER
       model_path: item/crops/hop/stage_2
@@ -44,6 +46,7 @@ items:
   hop_stage_3:
     display_name: ""
     resource:
+      model_id: 91
       generate: false
       material: PAPER
       model_path: item/crops/hop/stage_3
@@ -64,6 +67,7 @@ items:
   hop_stage_4:
     display_name: ""
     resource:
+      model_id: 92
       generate: false
       material: PAPER
       model_path: item/crops/hop/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Hop Seeds"
     #display_name: 啤酒花种子
     resource:
+      model_id: 93
       generate: false
       material: PAPER
       model_path: item/crops/hop/hop_seeds
@@ -92,6 +97,7 @@ items:
     display_name: "Hop"
     #display_name: 啤酒花
     resource:
+      model_id: 32
       generate: false
       material: APPLE
       model_path: item/crops/hop/hop
@@ -104,6 +110,7 @@ items:
     display_name: "Hop (Silver Star)"
     #display_name: 啤酒花(银星)
     resource:
+      model_id: 33
       generate: false
       material: APPLE
       model_path: item/crops/hop/hop_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Hop (Golden Star)"
     #display_name: 啤酒花(金星)
     resource:
+      model_id: 34
       generate: false
       material: APPLE
       model_path: item/crops/hop/hop_golden_star

@@ -4,6 +4,7 @@ items:
   papaya_stage_1:
     display_name: ""
     resource:
+      model_id: 206
       generate: false
       material: PAPER
       model_path: custom/items/papaya_stage_0
@@ -33,6 +34,7 @@ items:
   papaya_stage_2:
     display_name: ""
     resource:
+      model_id: 207
       generate: false
       material: PAPER
       model_path: custom/items/papaya_stage_1
@@ -62,6 +64,7 @@ items:
   papaya_stage_3:
     display_name: ""
     resource:
+      model_id: 208
       generate: false
       material: PAPER
       model_path: custom/items/papaya_stage_2
@@ -91,6 +94,7 @@ items:
   papaya_stage_4:
     display_name: ""
     resource:
+      model_id: 209
       generate: false
       material: PAPER
       model_path: custom/items/papaya_stage_3
@@ -118,6 +122,7 @@ items:
   papaya_stage_5:
     display_name: ""
     resource:
+      model_id: 210
       generate: false
       material: PAPER
       model_path: custom/items/papaya_stage_4
@@ -145,24 +150,28 @@ items:
   papaya_seeds:
     display_name: "papaya Seeds"
     resource:
+      model_id: 211
       generate: false
       material: PAPER
       model_path: custom/items/papaya_seeds
   papaya:
     display_name: "papaya"
     resource:
+      model_id: 92
       generate: false
       material: APPLE
       model_path: custom/items/papaya
   papaya_silver_star:
     display_name: "papaya (Silver Star)"
     resource:
+      model_id: 93
       generate: false
       material: APPLE
       model_path: custom/items/papaya_silver_star
   papaya_golden_star:
     display_name: "papaya (Golden Star)"
     resource:
+      model_id: 94
       generate: false
       material: APPLE
       model_path: custom/items/papaya_golden_star

@@ -4,6 +4,7 @@ items:
   redpacket_stage_1:
     display_name: ""
     resource:
+      model_id: 34
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_1
@@ -24,6 +25,7 @@ items:
   redpacket_stage_2:
     display_name: ""
     resource:
+      model_id: 35
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_2
@@ -44,6 +46,7 @@ items:
   redpacket_stage_3:
     display_name: ""
     resource:
+      model_id: 36
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_3
@@ -64,6 +67,7 @@ items:
   redpacket_stage_4:
     display_name: ""
     resource:
+      model_id: 37
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_4
@@ -84,6 +88,7 @@ items:
   redpacket_stage_5:
     display_name: ""
     resource:
+      model_id: 38
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_5
@@ -104,6 +109,7 @@ items:
   redpacket_stage_6:
     display_name: ""
     resource:
+      model_id: 39
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/stage_6
@@ -125,6 +131,7 @@ items:
     display_name: "Red Packet Tree Seed"
     #display_name: 摇钱树种子
     resource:
+      model_id: 40
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/redpacket_seeds
@@ -132,6 +139,7 @@ items:
     display_name: "Red Packet"
     #display_name: 红包
     resource:
+      model_id: 41
       generate: false
       material: PAPER
       model_path: item/crops/redpacket/redpacket

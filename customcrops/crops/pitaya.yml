@@ -4,6 +4,7 @@ items:
   pitaya_stage_1:
     display_name: ""
     resource:
+      model_id: 48
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_1
@@ -24,6 +25,7 @@ items:
   pitaya_stage_2:
     display_name: ""
     resource:
+      model_id: 49
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_2
@@ -44,6 +46,7 @@ items:
   pitaya_stage_3:
     display_name: ""
     resource:
+      model_id: 50
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_3
@@ -64,6 +67,7 @@ items:
   pitaya_stage_4:
     display_name: ""
     resource:
+      model_id: 51
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_4
@@ -84,6 +88,7 @@ items:
   pitaya_stage_5:
     display_name: ""
     resource:
+      model_id: 52
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_5
@@ -104,6 +109,7 @@ items:
   pitaya_stage_6:
     display_name: ""
     resource:
+      model_id: 53
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/stage_6
@@ -125,6 +131,7 @@ items:
     display_name: "Pitaya Seeds"
     #display_name: 火龙果种子
     resource:
+      model_id: 54
       generate: false
       material: PAPER
       model_path: item/crops/pitaya/pitaya_seeds
@@ -132,6 +139,7 @@ items:
     display_name: "Pitaya"
     #display_name: 火龙果
     resource:
+      model_id: 11
       generate: false
       material: APPLE
       model_path: item/crops/pitaya/pitaya
@@ -144,6 +152,7 @@ items:
     display_name: "Pitaya (Silver Star)"
     #display_name: 火龙果(银星)
     resource:
+      model_id: 12
       generate: false
       material: APPLE
       model_path: item/crops/pitaya/pitaya_silver_star
@@ -156,6 +165,7 @@ items:
     display_name: "Pitaya (Golden Star)"
     #display_name: 火龙果(金星)
     resource:
+      model_id: 13
       generate: false
       material: APPLE
       model_path: item/crops/pitaya/pitaya_golden_star

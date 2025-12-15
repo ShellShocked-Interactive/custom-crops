@@ -4,6 +4,7 @@ items:
   tomato_stage_1:
     display_name: ""
     resource:
+      model_id: 24
       generate: false
       material: PAPER
       model_path: item/crops/tomato/stage_1
@@ -24,6 +25,7 @@ items:
   tomato_stage_2:
     display_name: ""
     resource:
+      model_id: 25
       generate: false
       material: PAPER
       model_path: item/crops/tomato/stage_2
@@ -44,6 +46,7 @@ items:
   tomato_stage_3:
     display_name: ""
     resource:
+      model_id: 26
       generate: false
       material: PAPER
       model_path: item/crops/tomato/stage_3
@@ -64,6 +67,7 @@ items:
   tomato_stage_4:
     display_name: ""
     resource:
+      model_id: 27
       generate: false
       material: PAPER
       model_path: item/crops/tomato/stage_4
@@ -84,6 +88,7 @@ items:
   tomato_stage_golden:
     display_name: ""
     resource:
+      model_id: 28
       generate: false
       material: PAPER
       model_path: item/crops/tomato/stage_golden
@@ -104,12 +109,14 @@ items:
   tomato_seeds:
     display_name: display-name-tomato_seeds
     resource:
+      model_id: 29
       generate: false
       material: PAPER
       model_path: item/crops/tomato/tomato_seeds
   tomato:
     display_name: display-name-tomato
     resource:
+      model_id: 1
       generate: false
       material: APPLE
       model_path: item/crops/tomato/tomato
@@ -121,6 +128,7 @@ items:
   tomato_silver_star:
     display_name: display-name-tomato_silver_star
     resource:
+      model_id: 2
       generate: false
       material: APPLE
       model_path: item/crops/tomato/tomato_silver_star
@@ -132,6 +140,7 @@ items:
   tomato_golden_star:
     display_name: display-name-tomato_golden_star
     resource:
+      model_id: 3
       generate: false
       material: APPLE
       model_path: item/crops/tomato/tomato_golden_star
@@ -143,6 +152,7 @@ items:
   golden_tomato:
     display_name: display-name-golden_tomato
     resource:
+      model_id: 4
       generate: false
       material: APPLE
       model_path: item/crops/tomato/golden_tomato

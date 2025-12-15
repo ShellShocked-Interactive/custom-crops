@@ -4,6 +4,7 @@ items:
   guava_stage_1:
     display_name: ""
     resource:
+      model_id: 94
       generate: false
       material: PAPER
       model_path: custom/items/guava_stage_0
@@ -33,6 +34,7 @@ items:
   guava_stage_2:
     display_name: ""
     resource:
+      model_id: 95
       generate: false
       material: PAPER
       model_path: custom/items/guava_stage_1
@@ -62,6 +64,7 @@ items:
   guava_stage_3:
     display_name: ""
     resource:
+      model_id: 96
       generate: false
       material: PAPER
       model_path: custom/items/guava_stage_2
@@ -91,6 +94,7 @@ items:
   guava_stage_4:
     display_name: ""
     resource:
+      model_id: 97
       generate: false
       material: PAPER
       model_path: custom/items/guava_stage_3
@@ -118,6 +122,7 @@ items:
   guava_stage_5:
     display_name: ""
     resource:
+      model_id: 98
       generate: false
       material: PAPER
       model_path: custom/items/guava_stage_4
@@ -145,24 +150,28 @@ items:
   guava_seeds:
     display_name: "Guava Seeds"
     resource:
+      model_id: 99
       generate: false
       material: PAPER
       model_path: custom/items/guava_seeds
   guava:
     display_name: "Guava"
     resource:
+      model_id: 35
       generate: false
       material: APPLE
       model_path: custom/items/guava
   guava_silver_star:
     display_name: "Guava (Silver Star)"
     resource:
+      model_id: 36
       generate: false
       material: APPLE
       model_path: custom/items/guava_silver_star
   guava_golden_star:
     display_name: "Guava (Golden Star)"
     resource:
+      model_id: 37
       generate: false
       material: APPLE
       model_path: custom/items/guava

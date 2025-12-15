@@ -4,6 +4,7 @@ items:
   pineapple_stage_1:
     display_name: ""
     resource:
+      model_id: 55
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/stage_1
@@ -24,6 +25,7 @@ items:
   pineapple_stage_2:
     display_name: ""
     resource:
+      model_id: 56
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/stage_2
@@ -44,6 +46,7 @@ items:
   pineapple_stage_3:
     display_name: ""
     resource:
+      model_id: 57
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/stage_3
@@ -64,6 +67,7 @@ items:
   pineapple_stage_4:
     display_name: ""
     resource:
+      model_id: 58
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/stage_4
@@ -85,6 +89,7 @@ items:
     display_name: "Pineapple Seeds"
     #display_name: 菠萝种子
     resource:
+      model_id: 59
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/pineapple_seeds
@@ -92,6 +97,7 @@ items:
     display_name: "Pineapple"
     #display_name: 菠萝
     resource:
+      model_id: 14
       generate: false
       material: APPLE
       model_path: item/crops/pineapple/pineapple
@@ -104,6 +110,7 @@ items:
     display_name: "Pineapple (Silver Star)"
     #display_name: 菠萝(银星)
     resource:
+      model_id: 15
       generate: false
       material: APPLE
       model_path: item/crops/pineapple/pineapple_silver_star
@@ -116,6 +123,7 @@ items:
     display_name: "Pineapple (Golden Star)"
     #display_name: 菠萝(金星)
     resource:
+      model_id: 16
       generate: false
       material: APPLE
       model_path: item/crops/pineapple/pineapple_golden_star
@@ -128,6 +136,7 @@ items:
     display_name: "Overgrown Pineapple"
     #display_name: 巨型菠萝
     resource:
+      model_id: 60
       generate: false
       material: PAPER
       model_path: item/crops/pineapple/gigantic_pineapple

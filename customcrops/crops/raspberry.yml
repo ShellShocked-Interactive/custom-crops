@@ -4,6 +4,7 @@ items:
   raspberry_stage_1:
     display_name: ""
     resource:
+      model_id: 42
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_stage_0
@@ -33,6 +34,7 @@ items:
   raspberry_stage_2:
     display_name: ""
     resource:
+      model_id: 43
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_stage_1
@@ -62,6 +64,7 @@ items:
   raspberry_stage_3:
     display_name: ""
     resource:
+      model_id: 44
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_stage_2
@@ -91,6 +94,7 @@ items:
   raspberry_stage_4:
     display_name: ""
     resource:
+      model_id: 45
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_stage_3
@@ -118,6 +122,7 @@ items:
   raspberry_stage_5:
     display_name: ""
     resource:
+      model_id: 46
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_stage_4
@@ -145,24 +150,28 @@ items:
   raspberry_seeds:
     display_name: "raspberry Seeds"
     resource:
+      model_id: 47
       generate: false
       material: PAPER
       model_path: custom/items/raspberry_seeds
   raspberry:
     display_name: "raspberry"
     resource:
+      model_id: 5
       generate: false
       material: APPLE
       model_path: custom/items/raspberry
   raspberry_silver_star:
     display_name: "raspberry (Silver Star)"
     resource:
+      model_id: 6
       generate: false
       material: APPLE
       model_path: custom/items/raspberry_silver_star
   raspberry_golden_star:
     display_name: "raspberry (Golden Star)"
     resource:
+      model_id: 7
       generate: false
       material: APPLE
       model_path: custom/items/raspberry_golden_star

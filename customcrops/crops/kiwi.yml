@@ -4,6 +4,7 @@ items:
   kiwi_stage_1:
     display_name: ""
     resource:
+      model_id: 83
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_stage_0
@@ -33,6 +34,7 @@ items:
   kiwi_stage_2:
     display_name: ""
     resource:
+      model_id: 84
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_stage_1
@@ -62,6 +64,7 @@ items:
   kiwi_stage_3:
     display_name: ""
     resource:
+      model_id: 85
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_stage_2
@@ -91,6 +94,7 @@ items:
   kiwi_stage_4:
     display_name: ""
     resource:
+      model_id: 86
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_stage_3
@@ -118,6 +122,7 @@ items:
   kiwi_stage_5:
     display_name: ""
     resource:
+      model_id: 87
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_stage_4
@@ -145,24 +150,28 @@ items:
   kiwi_seeds:
     display_name: "kiwi Seeds"
     resource:
+      model_id: 88
       generate: false
       material: PAPER
       model_path: custom/items/kiwi_seeds
   kiwi:
     display_name: "kiwi"
     resource:
+      model_id: 29
       generate: false
       material: APPLE
       model_path: custom/items/kiwi
   kiwi_silver_star:
     display_name: "kiwi (Silver Star)"
     resource:
+      model_id: 30
       generate: false
       material: APPLE
       model_path: custom/items/kiwi_silver_star
   kiwi_golden_star:
     display_name: "kiwi (Golden Star)"
     resource:
+      model_id: 31
       generate: false
       material: APPLE
       model_path: custom/items/kiwi

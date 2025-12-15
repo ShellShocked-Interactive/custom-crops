@@ -4,6 +4,7 @@ items:
   rosywoodm_stage_1:
     display_name: "RosyWoodM"
     resource:
+      model_id: 30
       generate: false
       material: PAPER
       model_path: mushrooms/rosywoodm_stage_1
@@ -33,6 +34,7 @@ items:
   rosywoodm_stage_2:
     display_name: "RosyWoodM"
     resource:
+      model_id: 31
       generate: false
       material: PAPER
       model_path: mushrooms/rosywoodm_stage_2
@@ -62,6 +64,7 @@ items:
   rosywoodm_stage_3:
     display_name: "RosyWoodM"
     resource:
+      model_id: 32
       generate: false
       material: PAPER
       model_path: mushrooms/rosywoodm_stage_3
@@ -92,6 +95,7 @@ items:
     #display_name: "Tomato Seeds"
     display_name: "RosyWoodM Seeds"
     resource:
+      model_id: 33
       generate: false
       material: PAPER
       model_path: mushrooms/rosywoodm_seeds
@@ -99,18 +103,21 @@ items:
     #display_name: "Tomato"
     display_name: RosyWoodM
     resource:
+      model_id: 5
       generate: false
       material: APPLE
       model_path: mushrooms/rosywoodm
   rosywoodm_silver_star:
     display_name: RosyWoodM(Silver Star)
     resource:
+      model_id: 6
       generate: false
       material: APPLE
       model_path: mushrooms/rosywoodm_silver_star
   rosywoodm_golden_star:
     display_name: RosyWoodM(Golden Star)
     resource:
+      model_id: 7
       generate: false
       material: APPLE
       model_path: mushrooms/rosywoodm_golden_star     

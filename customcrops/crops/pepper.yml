@@ -4,6 +4,7 @@ items:
   pepper_stage_1:
     display_name: ""
     resource:
+      model_id: 61
       generate: false
       material: PAPER
       model_path: item/crops/pepper/stage_1
@@ -24,6 +25,7 @@ items:
   pepper_stage_2:
     display_name: ""
     resource:
+      model_id: 62
       generate: false
       material: PAPER
       model_path: item/crops/pepper/stage_2
@@ -44,6 +46,7 @@ items:
   pepper_stage_3:
     display_name: ""
     resource:
+      model_id: 63
       generate: false
       material: PAPER
       model_path: item/crops/pepper/stage_3
@@ -64,6 +67,7 @@ items:
   pepper_stage_4:
     display_name: ""
     resource:
+      model_id: 64
       generate: false
       material: PAPER
       model_path: item/crops/pepper/stage_4
@@ -84,6 +88,7 @@ items:
   pepper_stage_5:
     display_name: ""
     resource:
+      model_id: 65
       generate: false
       material: PAPER
       model_path: item/crops/pepper/stage_5
@@ -105,6 +110,7 @@ items:
     display_name: "Pepper Seeds"
     #display_name: 辣椒种子
     resource:
+      model_id: 66
       generate: false
       material: PAPER
       model_path: item/crops/pepper/pepper_seeds
@@ -112,6 +118,7 @@ items:
     display_name: "Pepper"
     #display_name: 辣椒
     resource:
+      model_id: 17
       generate: false
       material: APPLE
       model_path: item/crops/pepper/pepper
@@ -124,6 +131,7 @@ items:
     display_name: "Pepper (Silver Star)"
     #display_name: 辣椒(银星)
     resource:
+      model_id: 18
       generate: false
       material: APPLE
       model_path: item/crops/pepper/pepper_silver_star
@@ -136,6 +144,7 @@ items:
     display_name: "Pepper (Golden Star)"
     #display_name: 辣椒(金星)
     resource:
+      model_id: 19
       generate: false
       material: APPLE
       model_path: item/crops/pepper/pepper_golden_star
